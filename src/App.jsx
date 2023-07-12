@@ -14,7 +14,7 @@ const App = () =>{
     });
     console.log(note);
   }
-
+// jkdcanvla
   const onDelete = (id) =>{
     setAddItem((oldData)=>
     oldData.filter((currData, indx) => {
